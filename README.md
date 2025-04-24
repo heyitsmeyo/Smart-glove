@@ -4,9 +4,18 @@ The project is about a smart glove that translates ASL (American sign language )
 The dataset used in this project can be found here : https://figshare.com/articles/dataset/ASL-Sensor-Dataglove-Dataset_zip/20031017?file=35776586
 
 
-
+# ML model on Raspberry pi 4 : 
 https://github.com/user-attachments/assets/d7a3f881-43f6-4269-8a6f-e407b0890e4a
 
+
+
+# ML model on ESP32  :
+
+We trained a random forest model with our recorded dataset and then deployed on esp32 mcu via a library called Micromlegen. 
+
+More details can be found on "Random Forest on ESP32" Folder 
+
+https://github.com/user-attachments/assets/0fa90072-629f-4a5f-b3f2-19ceb94ad8dd
 
 
 
